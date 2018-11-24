@@ -1,4 +1,2 @@
-echo "Welcome"
-echo "orange"
-echo "world"
-echo "welcome"
+#!/bin/bash          
+          echo "Hello World"
